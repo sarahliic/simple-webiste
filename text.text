@@ -1,0 +1,71 @@
+<!-- BOOTACMP AND PRGRAMS SECTION -->
+    <section class="programs-bootcamp-section">
+      <div class="programs-bootcamp-container">
+        <!-- Bootcamp and Programs BOX -->
+        <div class="title-bootcamp-programs">
+          <h3>المعسكرات والبرامج</h3>
+        </div>
+        <div class="boxes">
+          <!-- BOX ONE -->
+          <div class="box-one">
+            <div class="details-courses">
+              <div class="course-name">
+                <p class="green-text">تحدي</p>
+                <p>طويق فلاق يارد</p>
+              </div>
+              <div class="location-moreBtn">
+                <div class="location-time">
+                  <p>الرياض</p>
+                  <p>1يوم</p>
+                  <p>يبدأ في 10/28/2023</p>
+                </div>
+                <div class="moreBtn">
+                  <button class="detailsBtn">التفاصيل</button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- BOX 2 -->
+          <div class="box-two">
+            <div class="details-courses">
+              <div class="course-name">
+                <p>تحدي</p>
+                <p>طويق فلاق يارد</p>
+              </div>
+              <div class="location-moreBtn">
+                <div class="location-time">
+                  <p>الرياض</p>
+                  <p>1 يوم</p>
+                  <p>يبدأ في 10/28/2023</p>
+                </div>
+                <div class="moreBtn">
+                  <button class="detailsBtn">التفاصيل</button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- BOX 3 -->
+          <div class="box-three">
+            <div class="details-courses">
+              <div class="course-name">
+                <p class="green-text">تحدي</p>
+                <p>طويق فلاق يارد</p>
+              </div>
+              <div class="location-moreBtn">
+                <div class="location-time">
+                  <div class="location-1">
+                    <p>1 يوم</p>
+                    <p>الرياض</p>
+                  </div>
+
+                  <p class="date">يبدأ في 10/28/2023</p>
+                </div>
+                <div class="moreBtn">
+                  <button class="detailsBtn">التفاصيل</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
